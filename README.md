@@ -1,2 +1,4 @@
 # my-first-repo
-sample repository
+my master branch is here
+
+I have created some-changes branch from master
