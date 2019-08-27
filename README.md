@@ -1,4 +1,4 @@
 # my-first-repo
-sample repository
-I love Java
-I love : tea
+my master branch is here
+
+I have created some-changes branch from master
